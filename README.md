@@ -6,6 +6,6 @@ I am Lakshya, web-developer and ethical hacking enthusiast👨‍💻 .
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Talk to me about React and Ethical hacking
-- 📫 Reach out to me  on [Twitter](https://twitter.com/Lakshya-Poddar) and [LinkedIn](https://linkedin.com/Lakshya-Poddar)
+- 📫 Reach out to me  on [Twitter](https://twitter.com/lakshya_poddar) and [LinkedIn](https://linkedin.com/Lakshya-Poddar)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Living on coffee(not so fun may be but a fact for sure).
