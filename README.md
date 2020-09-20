@@ -1,8 +1,8 @@
 **Hello!**
 
-I am Lakshya, MERN stack web-developer and ethical hacking enthusiast 👨‍💻 .
+I am Lakshya, a MERN stack web-developer👨‍💻 .
 
-- 🔭 I’m currently working on a cool project. Stay tuned to know more.
+- 🔭 I’m currently working on a video calling project. Stay tuned to know more.
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Talk to me about React and Ethical hacking
