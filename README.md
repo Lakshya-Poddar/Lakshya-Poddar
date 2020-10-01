@@ -2,8 +2,8 @@
 
 I am Lakshya, a MERN stack web-developer👨‍💻 .
 
-- 🔭 I’m currently working on a video calling project. Stay tuned to know more.
-- 🌱 I’m currently learning Firebase.
+- 🔭 I’m currently working on a video calling project [Face-Meet](https://facemeet.herokuapp.com). Stay tuned to know more.
+- 🌱 I’m currently learning firebase.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Talk to me about React and Ethical hacking
 - 📫 Reach out to me  on [Twitter](https://twitter.com/lakshya_poddar) and [LinkedIn](https://www.linkedin.com/in/lakshya-poddar/)
